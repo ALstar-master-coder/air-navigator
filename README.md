@@ -24,7 +24,7 @@ A touchless hand gesture controller for Windows using your webcam and MediaPipe.
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/<YOUR\_USERNAME>/<REPO\_NAME>.git
+&#x20;  git clone https://github.com/ALstar-master-coder/air-navigator.git
 
-&#x20;  cd <REPO\_NAME>
+&#x20;  cd air-navigator.git
 
